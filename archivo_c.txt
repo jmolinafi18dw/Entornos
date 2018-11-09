@@ -1,2 +1,3 @@
 esta es la primer linea del archivo_c.txt
 
+hemos creado una segunda linea
