@@ -1,0 +1,2 @@
+esta es la primer linea del archivo_c.txt
+
